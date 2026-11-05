@@ -1,3 +1,4 @@
+# Hauptfunktion
 print("Testdasfdfsfa")
 
 print ("Hello World, Merlin macht mit")
@@ -7,3 +8,12 @@ print ("Hello World new_ fehler2")
 print("Tonnidsaoi")
 print("Tonnidsaoi")
 print("Tonnidsaoi")
+
+
+# Manuel
+
+
+
+
+
+# SDACS
